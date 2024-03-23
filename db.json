@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "firstname": "eswb",
+      "middlename": "jsjbdhbcd",
+      "lastname": "wjdnh",
+      "username": "kdcburd",
+      "email": "uqwujsdd@kbxq",
+      "password": "$2a$05$QgJvxJjdOx9jA4UQihw9beqgovzU2abI2XBvebCPudVQYpgvVcrLy",
+      "id": 1
+    },
+    {
+      "firstname": "Roman",
+      "middlename": "",
+      "lastname": "Reigns",
+      "username": "tribalChief",
+      "email": "tribalChief@gmail.com",
+      "password": "$2a$05$6Z2B6A7bNjotxl4ylWN2/uXZWJ7CxEnanN2BYB6tUS5/2jnOdz6M.",
+      "confirmPassword": "champ",
+      "id": 2
+    }
+  ]
+}
